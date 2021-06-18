@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/static/js/main.e2caa3f1.chunk.js",
+    "main.js.map": "/static/js/main.e2caa3f1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fe37e255.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fe37e255.js.map",
+    "static/js/2.2169dc51.chunk.js": "/static/js/2.2169dc51.chunk.js",
+    "static/js/2.2169dc51.chunk.js.map": "/static/js/2.2169dc51.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.2169dc51.chunk.js.LICENSE.txt": "/static/js/2.2169dc51.chunk.js.LICENSE.txt",
+    "static/media/casestudy1.png": "/static/media/casestudy1.0b7b13d0.png",
+    "static/media/logo.66735859.png": "/static/media/logo.66735859.png",
+    "static/media/mob.svg": "/static/media/mob.fbea4d7d.svg",
+    "static/media/seo1.svg": "/static/media/seo1.aef671bf.svg",
+    "static/media/svg-1.svg": "/static/media/svg-1.44878823.svg",
+    "static/media/svg2.svg": "/static/media/svg2.3aab13cb.svg",
+    "static/media/svg3.svg": "/static/media/svg3.603683b3.svg",
+    "static/media/undraw_All_the_data_re_hh4w.svg": "/static/media/undraw_All_the_data_re_hh4w.f096e041.svg",
+    "static/media/website.svg": "/static/media/website.5afff8f9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe37e255.js",
+    "static/js/2.2169dc51.chunk.js",
+    "static/js/main.e2caa3f1.chunk.js"
+  ]
+}
